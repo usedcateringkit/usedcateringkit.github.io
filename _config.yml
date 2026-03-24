@@ -1,7 +1,0 @@
-remote_theme: chesterhow/tale
-title: Catering Kit Finds
-description: Secondhand commercial kitchen equipment. What's worth buying and where to find it.
-author: Stu
-permalink: /:title/
-plugins:
-  - jekyll-remote-theme
